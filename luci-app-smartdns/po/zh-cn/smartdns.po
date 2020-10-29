@@ -2,7 +2,7 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SmartDNS"
-msgstr "SmartDNS"
+msgstr "智能DNS"
 
 msgid "SmartDNS is a local high-performance DNS server"
 msgstr "SmartDNS是一个本地高性能DNS服务器"
